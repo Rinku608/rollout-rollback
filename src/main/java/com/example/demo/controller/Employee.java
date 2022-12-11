@@ -8,7 +8,7 @@ public class Employee {
 
 	@RequestMapping("/")
 	   public String hello() {
-	        return "Hello rollig out";
+	        return "Hello rollinng out";
 	    }
 
 @RequestMapping("/roll")
